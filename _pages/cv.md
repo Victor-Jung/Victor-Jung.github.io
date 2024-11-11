@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,36 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **ETH Zürich**, Zürich, Switzerland (2022 - present)
+  * Ph.D. Candidate in Information Technology & Electrical Engineering
+  * Advisor: Prof. Dr. Luca Benini
+  * Second Advisor: Dr. Francesco Conti
+  * Thesis Title (work in progress): *Efficient Foundation Model Deployment on Heterogeneous RISC-V-based SoCs with Software-Managed Caches*
+* **Institut Supérieur de l'Electronique et du Numérique of Lille (ISEN Lille)**, Lille, France, (2017 - 2022)
+  * M.S. in Computer Science
+  * Major: Artificial Intelligence
+  * Advisor: Dr. Antoine Frappé
+* **Juniata College**, PA, USA (2021)
+  * B.S. in Computer Science and Engineering Physics
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+TBA
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -55,10 +41,14 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ * **Machine Learning on Microcontrollers** - Teaching Assistant
+  * Developed exercises and supervised laboratory session and projects.
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+**Reviewer**
+  * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+  * ACM Transactions on Embedded Computing Systems (TECS)
+  * IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)
+
+IEEE Graduate Student Member
