@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Breif Bio
+# Brief Bio
 Victor Jean-Baptiste Jung is a Ph.D. candidate at the Integrated Systems Laboratory (IIS) of ETH Zürich and supervised by Prof. Dr. Luca Benini. He received his Master's Degree in Computer Science from the Institut Supérieur de l’Electronique et du Numérique of Lille (ISEN Lille) and his Bachelor's Degree in Computer Science and Engineering Physics from Juniata College. His current research interests include ML Compilers for Heterogeneous SoCs, Quantization, Embedded Deep Learning, and Scheduling.
 
 # Publications
