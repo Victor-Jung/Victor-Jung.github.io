@@ -19,4 +19,4 @@ You can also my articles on [Google Scholar.](https://scholar.google.com/citatio
 ## [Invited Talk: Energy-Efficient Generative AI on Open-Source RISC-V Heterogeneous SoCs](http://https://victor-jung.github.io/talks/)
 <u>Venue:</u> *TinyML Forum: Beyond LLMs and Chatbots – the Journey to Generative AI at the Edge* <br />
 <u>Location:</u> Online <br />
-[Recording Link (TBA)](TODO)
+[Recording Link](https://www.youtube.com/watch?v=96WDuQM8ViE&ab_channel=EDGEAIFOUNDATION)
