@@ -8,7 +8,7 @@ date: 2024-10-18
 location: "Online"
 ---
 
-[Recording Link (Soon added)](TODO)
+[Recording Link](https://www.youtube.com/watch?v=96WDuQM8ViE&ab_channel=EDGEAIFOUNDATION)
 
 Transformer-based Generative AI (GenAI) technologies, such as Large Language Models (LLMs) and Foundation Models (FMs), have been central to the recent revolution in AI technologies. The emergence of GenAI, specifically in the domain of Embodied Foundation Models (EFMs), is an interesting opportunity for the TinyML community, as embodied applications must comply with the strict power and memory constraints set by small, embedded devices.
 However, the end-to-end deployment of GenAI models on TinyML platforms like heterogeneous Systems-on-Chip (SoCs) is still an open challenge. 
